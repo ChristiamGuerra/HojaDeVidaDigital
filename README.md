@@ -1,2 +1,2 @@
 # HojaDeVidaDigital
-Hoja de Vida Digital
+Hoja de Vida Digital, proyecto final del curso Fundamentos de HTML.

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="399.000007" width="399.00003" y="67.999997" x="7.999994" stroke-width="0" stroke="#000000" fill="#3f3f3f"/>
+  <rect id="svg_2" height="398.000009" width="383.999961" y="12.000011" x="250.500041" stroke-width="0" stroke="#000000" fill="#bfbfbf"/>
+  <text id="svg_4" font-weight="bold" transform="matrix(17.4041, 0, 0, 15.2603, -2899.19, -2734)" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" y="203.754432" x="193.240445" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#3f3f3f">G</text>
+  <text font-weight="bold" transform="matrix(19.0073, 0, 0, 15.0264, -3111.24, -2820.15)" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" id="svg_3" y="212.263092" x="173.393156" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ff7f00">C</text>
+  <line stroke-width="7" id="svg_5" y2="175" x2="635.00003" y1="173" x1="6.999992" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#ffffff" fill="none"/>
+  <line transform="rotate(91.5856, 83.7198, 254.437)" id="svg_6" stroke-width="15" y2="255.002694" x2="295.7583" y1="253.87088" x1="-128.318652" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#ffffff" fill="none"/>
+ </g>
+</svg>
